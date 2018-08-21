@@ -10,8 +10,8 @@ menu:
   主页: /
   所有文章: /archives/
   #随笔: /tags/随笔
-  标签云: /tags/
-  关于我: /about/
+  相册: photo
+  
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.png
@@ -40,14 +40,14 @@ since: 2016
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "mailto:123@123.com"
+  Email: "huangcftt@gmail.com"
   #新浪微博: "sina weibo"
-  GitHub: "#"
+  GitHub: "https://github.com/huangchen0"
   #V2EX: "#"
-  RSS: "/atom.xml"
+  #RSS: "/atom.xml"
   #知乎: "zhihu"
   #豆瓣: "douban"
-  #简书: "jianshu"
+  简书: "https://www.jianshu.com/u/954800c1eb88"
   #SegmentFault: ""
   #博客园: "cnblogs"
   #CSDN: ""
@@ -63,7 +63,7 @@ subnav:
   #Twitter: "#"
   #LinkedIn: "#"
   #QQ: "#"
-  #微信: "Wechat"
+  微信: "http://upload-images.jianshu.io/upload_images/1870398-8a29e6df15db4e07.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
   #PayPal: "#"
   #StackOverflow: "#"
   #CodePen: ""
@@ -181,13 +181,13 @@ tagcloud: true
 
 # Blogroll, Link exchange | 友情链接
 friends:
-  Hexo: https://hexo.io
-  GitHub: https://pages.github.com/
-  MOxFIVE: http://moxfive.xyz/
+  简书: https://www.jianshu.com/u/954800c1eb88
+  GitHub: https://github.com/huangchen0
+  微信公众号: http://upload-images.jianshu.io/upload_images/1870398-a702fdb2432ef815.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 专注于前端
+aboutme: 学习不仅仅只是看教程，最好能够想出代码实例去验证自己对某个方面的理解和判断，这样不仅能加深理解，还能够在未来的应用开发中使用到。
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
